@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate and driven **Full-Stack Develop
 - **Current Focus**: I'm currently honing my skills in **full-stack development** with a focus on **Python**, **JavaScript**, and various frameworks to build modern, high-performance web applications.
 - **Technologies I'm Learning**: I'm actively expanding my knowledge of **Python** (particularly with frameworks like **Django** and **Flask**), **HTML5**, **CSS3**, **JavaScript**, and modern front-end libraries like **React.js**.
 - **Collaboration Interests**: I'm eager to collaborate with fellow developers, designers, and engineers on innovative software projects. I thrive in team settings and enjoy contributing to open-source and community-driven projects.
-- **Contact Information**: Feel free to connect with me directly via **WhatsApp** at [7997120185](tel:+917997120185) or reach out to my email at [your-email@example.com].
+- **Contact Information**: Feel free to connect with me directly via **WhatsApp** at [7997120185](tel:+917997120185) or reach out to my email at raviteja.btech2022@gmail.com.
 
 ## 🧑‍💻 Skills and Technologies
 
